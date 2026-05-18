@@ -1,17 +1,14 @@
-# projectone
+# Product Store
 
-A new Flutter project.
+CRUD API consumption using http and state management using Provider
 
-## Getting Started
+# Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Home screen](Screen_shots/home_screen_1.png)
+![Home screen 2](Screen_shots/home_screen_2.png)
+![Detailed Screen 1](Screen_shots/product_detail_sceen_1.png)
+![Detailed Screen 2](Screen_shots/product_detail_sceen_2.png)
+![Add Screen 1](Screen_shots/add_product_1.png)
+![Add Screen 2](Screen_shots/add_product_2.png)
+![Edit Screen 1](Screen_shots/edit_product_screen_1.png)
+![Edit Screen 2](Screen_shots/edit_product_screen_2.png)
